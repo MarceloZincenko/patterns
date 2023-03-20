@@ -1,5 +1,5 @@
 # patterns
-Design Patterns in Python
+Design Patterns in C++, Python or Rust
 
 In this folder, I am going to store examples of design patterns that I have used or studied.
 
