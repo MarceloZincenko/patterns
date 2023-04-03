@@ -5,6 +5,7 @@ In this folder, I am going to store examples of design patterns that I have used
 
 Patterns:
 1-Model View Controller (MVC)
+2- Factory Pattern 
 
 To run the code:
 1- Go to the folder
