@@ -15,6 +15,7 @@ Patterns:
 5- Builder
 6- Adapter
 7- Decorator
+8- Facade
 
 To run the code:
 1- Go to the folder
