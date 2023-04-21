@@ -1,4 +1,4 @@
-# patterns
+# Patterns examples
 Design Patterns in C++, Python or Rust
 
 In this repo, I am going to store examples of design patterns that I have used or studied.
@@ -14,6 +14,7 @@ Patterns:
 4- Prototype
 5- Builder
 6- Adapter
+7- Decorator
 
 To run the code:
 1- Go to the folder
