@@ -17,6 +17,7 @@ Patterns:
 7- Decorator
 8- Facade
 9- Proxy
+10- Chain of Responsability
 
 To run the code:
 1- Go to the folder
