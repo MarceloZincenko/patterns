@@ -16,6 +16,7 @@ Patterns:
 6- Adapter
 7- Decorator
 8- Facade
+9- Proxy
 
 To run the code:
 1- Go to the folder
